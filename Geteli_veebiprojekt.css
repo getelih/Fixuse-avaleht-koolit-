@@ -1,0 +1,136 @@
+>
+    body {
+        font-family: "Barlow Condensed", sans-serif;
+    }
+    #pilt {    
+    max-height: 600px;
+    margin-left: auto; margin-right: auto; }
+    
+    #nupp {
+    background-color: rgb(0, 86, 167);
+    border: none;
+    color: white;
+    padding: 3px 15px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    }
+
+.nav-item {
+    font-size: 14px;
+    font-family: "Barlow Condensed";
+    }
+    
+.suur-tekst { 
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Barlow Condensed";
+ }
+
+.hall-tekst { 
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    color: darkgray;
+ }
+    
+.bold-tekst { 
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+ }    
+
+.vaike-tekst { 
+    text-align: center;
+    font-size: 12px;
+    color: darkgray;
+ }     
+    .pilt1 {
+    max-width: 60%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+     }
+    
+    img.pilt1 {
+    padding-bottom: 40px;    
+}
+    
+    .container {
+        justify-content: space-between;
+        align-items: center;
+        z-index: 9;
+    }
+    input.form-control,
+    textarea.form-control {
+    border: 1px solid #164da8 !important;
+    border-radius: 1px;
+    background-color: inherit;
+}
+    .form-control:focus {
+    border: 1px solid #164da8 !important;
+    border-radius: 1px;
+    background-color: inherit;
+    border-color: inherit;
+    outline: 0;
+    box-shadow: none;
+}
+    .tulp a {
+    text-decoration: none;
+    color: inherit;
+    transition: all .5s;
+}
+    .tulp a:hover {
+    color: #ffc803;
+    transition: all .5s;
+}
+    .pakkumise-nupp
+    {
+    color: black;
+    background-color: #ffc803;
+    border-radius: 1px;
+    float: right;
+    font-size: 14px;
+    padding: 15px 40px;
+    position: fixed;
+    bottom: 80px;
+    right: 70px;
+    z-index: 10;
+    border-color: white;
+    }
+    
+.sponsor-slider-container {
+    display: flex;
+    overflow: hidden;
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding-top: 40px; 
+    padding-bottom: 80px; 
+}
+    
+.swiper-wrapper {
+    display: flex;
+    flex-wrap: nowrap; 
+    justify-content: flex-start;
+}
+    
+.swiper-slide {
+    flex: 0 0 auto;
+    width: 150px; 
+    margin-right: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.swiper-slide img {
+    max-width: 100%; 
+    height: auto; 
+}
+#sponsorSlider {
+    width: 100%; 
+     margin: 0 auto; 
+
+}
