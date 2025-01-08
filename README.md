@@ -1,1 +1,1 @@
-# TPT-Erinevad-tehnoloogiad
+# See on koolitöö, kus püüdsin järgi teha fixus.ee avalehe disaini.
